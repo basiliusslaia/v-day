@@ -28,7 +28,6 @@ const yesTeasePokes = [
     "click no, I dare you"
 ]
 
-
 let yesTeasedCount = 0
 
 let noClickCount = 0
